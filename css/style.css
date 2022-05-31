@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    font-family: Verdana;
+}
+.nav-link.active {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.nav-link {
+    font: verdana;
+    color: aqua;
+}
+
+/* style home */
+section#home {
+   background-image: url(../asset/photo.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   
+   background-color:antiquewhite;
+   height: 450px;
+
+}
+
+
+
+/* style service */
+#service {
+    background-color: grey;
+}
