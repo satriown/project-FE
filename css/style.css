@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    font-family: Verdana;
+}
+.nav-link.active {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.nav-link {
+    font: verdana;
+    color: aqua;
+}
+
+/* style home */
+section#home {
+   background-image: url(../asset/photo.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color:antiquewhite;
+   height: 450px;
+   padding-top: 10%;
+   padding-bottom: 20px;
+
+}
+
+h4.display-6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+
+
+
+/* style service */
+#service {
+    background-color: #D9D9D9;
+}
+
+h3.display-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #44749D;
+}
+
+h4.display-5 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* Style Contact Us */
+
+img {
+    height: 180px;
+    width: 170px;
+}
